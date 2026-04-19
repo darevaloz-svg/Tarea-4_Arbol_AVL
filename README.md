@@ -1,6 +1,6 @@
-## 🚀 Cómo ejecutar y probar el programa
+##  Cómo ejecutar y probar el programa
 
-### 📌 Requisitos
+###  Requisitos
 
 Antes de ejecutar el programa, asegúrate de tener instalado:
 
@@ -17,11 +17,11 @@ Instalar Graphviz (programa):
 
 https://graphviz.org/download/
 
-⚠️ Importante: Durante la instalación, agregar Graphviz al PATH del sistema.
+Importante: Durante la instalación, agregar Graphviz al PATH del sistema.
 
 ---
 
-### ▶️ Ejecución del programa
+###  Ejecución del programa
 
 1. Clonar el repositorio:
 
@@ -38,7 +38,7 @@ python main.py
 
 ---
 
-### 🧭 Uso del menú
+###  Uso del menú
 
 Al ejecutar el programa, se mostrará un menú interactivo con las siguientes opciones:
 
@@ -51,7 +51,7 @@ Al ejecutar el programa, se mostrará un menú interactivo con las siguientes op
 
 ---
 
-### 🧪 Ejemplo de prueba
+###  Ejemplo de prueba
 
 Puedes probar el programa con los siguientes pasos:
 
@@ -63,11 +63,11 @@ Puedes probar el programa con los siguientes pasos:
 
 2. Visualizar el árbol (opción 5)
 
-✔ El sistema balanceará automáticamente el árbol (AVL)
+ El sistema balanceará automáticamente el árbol (AVL)
 
 ---
 
-### 📂 Prueba con archivos CSV
+###  Prueba con archivos CSV
 
 El proyecto incluye archivos de prueba:
 
@@ -86,7 +86,7 @@ data1.csv
 
 ---
 
-### 🌳 Visualización
+###  Visualización
 
 Al seleccionar la opción 5:
 
@@ -95,7 +95,7 @@ Al seleccionar la opción 5:
 
 ---
 
-### ❗ Posibles errores
+###  Posibles errores
 
 * Si no se genera la imagen:
 
